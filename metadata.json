@@ -1,0 +1,6 @@
+{
+  "name": "BLOCK SLIDE",
+  "description": "Slide. Clear. Survive. An endless block-sliding casual puzzle game with procedural difficulty, daily challenges, custom level editor, and dynamic combo mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
